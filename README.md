@@ -16,12 +16,12 @@ This is the backend repository for KirtankarBooker, a platform facilitating book
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/kirtankarbooker-backend.git
+   git clone https://github.com/akshaychouke/MarathiKirtankar_Backend.git
    ```
 
 2. Install dependencies:
 
-```cd kirtankarbooker-backend
+`````cd kirtankarbooker-backend
 npm install```
 
 3. Set up environment variables:
@@ -34,3 +34,4 @@ JWT_SECRET=your_jwt_secret````
 4. Run the server:
 ```npm start```
 
+`````
